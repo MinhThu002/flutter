@@ -1,0 +1,11 @@
+<resources>
+    <!-- Firebase project settings -->
+    <string name="project_id">fluttersignin-8ca8a</string>
+    <string name="google_app_id">1:777012001672:android:3d1a7b085037a85701583d</string>
+    <string name="gcm_defaultSenderId">777012001672</string>
+    <string name="default_web_client_id">777012001672-nvv71efjbr0m01i0hhrrq96v4obefhtv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url">https://fluttersignin-8ca8a.firebaseio.com</string>
+    <string name="google_api_key">AIzaSyBp9oAmC_0g9EcEJcvpYjx3Qp2HCT0eKII</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBp9oAmC_0g9EcEJcvpYjx3Qp2HCT0eKII</string>
+    <string name="storage_bucket">fluttersignin-8ca8a.appspot.com</string>
+</resources>
